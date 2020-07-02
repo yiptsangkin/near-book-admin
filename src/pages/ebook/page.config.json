@@ -1,0 +1,22 @@
+{
+  "title": "Near-Admin",
+  "externals": {
+    "polyfill": {
+      "type": "js",
+      "url": [
+        "/static/js/near.polyfill.js"
+      ]
+    },
+    "pdf": {
+      "type": "js",
+      "url": [
+        "/static/js/pdf/pdf.js",
+        "/static/js/pdf/pdf.worker.js"
+      ]
+    },
+    "apiconfig": {
+      "type": "js",
+      "url": []
+    }
+  }
+}
